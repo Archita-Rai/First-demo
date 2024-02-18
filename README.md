@@ -2,4 +2,4 @@
 This is my first Git Repository
 Auther- Archita Rai
 <br/>
-Auther-Archita Rai
+Auther-Archita (Student)
